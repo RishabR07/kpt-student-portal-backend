@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: kpt-student-portal-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 8081
+      - key: NODE_ENV
+        value: production
