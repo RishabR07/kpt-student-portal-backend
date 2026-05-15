@@ -1,0 +1,7 @@
+name,email,role,password,department,rollNumber,employeeId
+John Doe,john.doe@kpt.edu,student,SecurePass123!,Computer Science,CS2024001,
+Jane Smith,jane.smith@kpt.edu,teacher,SecurePass123!,Computer Science,,EMP001
+Robert Johnson,robert.johnson@kpt.edu,student,SecurePass123!,Computer Science,CS2024002,
+Admin User,admin@kpt.edu,admin,SecurePass123!,Administration,,
+Michael Brown,michael.brown@kpt.edu,teacher,SecurePass123!,Electronics Engineering,,EMP002
+Sarah Davis,sarah.davis@kpt.edu,student,SecurePass123!,Electronics Engineering,EC2024001,
